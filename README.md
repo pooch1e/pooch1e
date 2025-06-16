@@ -30,12 +30,9 @@ Hi, I'm Joel
 
 🚀 About Me
 
-🔭 I'm currently working on exciting projects that challenge me every day
 🌱 I'm always learning and exploring new technologies
 👯 I'm looking to collaborate on open source projects
-💬 Ask me about web development, databases, or anything tech-related
-📫 How to reach me: your-email@example.com
-⚡ Fun fact: I believe good code is like a good joke - if you have to explain it, it's probably not that good!
+📫 How to reach me: joelnskram@gmail.com
 
 
 🛠️ Languages and Tools
@@ -72,36 +69,14 @@ Hi, I'm Joel
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
-🎯 Current Focus
-
-Building scalable web applications
-Exploring cloud technologies
-Contributing to open source
-Learning new programming paradigms
-
-
 <div align="center">
 <p><strong>Have a good day!</strong> 😊</p>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
 Let's Connect!
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/yourhandle" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-</div>
+<a href="www.linkedin.com/in/joel-kram/" target="_blank">
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square" alt="Profile views">
 </div>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a> </p>
 
