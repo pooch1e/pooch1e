@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Joel 👋</h1>
 
 <div align="center">
-  <p>🌱 Junior Software Developer | 🎨 Artist & Designer | 🌍 Based in London, UK</p>
+  <p>🌱 Junior Software Developer | 🎨 Artist & Designer | 🌍 Based in London, UK | Melbourne, Aus</p>
 </div>
 
 ---
