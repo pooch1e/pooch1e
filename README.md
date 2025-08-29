@@ -30,7 +30,7 @@
 
 I'm a junior developer with a background in customer support, art, and design—bringing a collaborative, user-focused approach to solving technical problems.
 
-- 🧠 Currently enrolled in a full-time bootcamp at Northcoders (JavaScript, Node.js, TDD)
+- 🧠 Recently completed a full-time bootcamp at Northcoders (JavaScript, Node.js, TDD)
 - 💼 Previously worked in IT helpdesk, admin, and production roles
 - 💬 Confident communicator with years of experience in front-facing and collaborative roles
 - 🌱 I’m always learning and keen to grow in purpose-driven, inclusive teams
