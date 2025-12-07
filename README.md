@@ -30,11 +30,12 @@
 
 I'm a junior developer with a background in customer support, art, and design—bringing a collaborative, user-focused approach to solving technical problems.
 
+- 🏋️‍♀️ Working in a front-end role for a Music Publishing Company!
 - 🧠 Recently completed a full-time bootcamp at Northcoders (JavaScript, Node.js, TDD)
 - 💼 Previously worked in IT helpdesk, admin, and production roles
 - 💬 Confident communicator with years of experience in front-facing and collaborative roles
 - 🌱 I’m always learning and keen to grow in purpose-driven, inclusive teams
-- 🎯 Looking for a junior software developer role where I can keep learning and contribute to something meaningful
+
 
 ---
 
